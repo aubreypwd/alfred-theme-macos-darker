@@ -1,0 +1,65 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 4,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#FFFFFF7F",
+        "font" : "Helvetica",
+        "color" : "#FFFFFF2A"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#919191FF",
+        "font" : "Helvetica",
+        "color" : "#919191FF"
+      },
+      "backgroundSelected" : "#FDFDFD09",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#EEF1E8FF",
+        "font" : "Helvetica",
+        "color" : "#F2F3F37F"
+      },
+      "iconPaddingHorizontal" : 5,
+      "roundness" : 0,
+      "paddingVertical" : 2,
+      "iconSize" : 40
+    },
+    "search" : {
+      "backgroundSelected" : "#FFEFAFFF",
+      "paddingHorizontal" : 8,
+      "spacing" : 10,
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#000000FF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#FEFEFEED"
+      },
+      "background" : "#00000000",
+      "roundness" : 0,
+      "paddingVertical" : 2
+    },
+    "window" : {
+      "color" : "#00000088",
+      "paddingHorizontal" : 10,
+      "width" : 560,
+      "borderPadding" : 0,
+      "borderColor" : "#FEFFFF00",
+      "blur" : 0,
+      "roundness" : 15,
+      "paddingVertical" : 10
+    },
+    "credit" : "Aubrey Portwood",
+    "visualEffectMode" : 2,
+    "separator" : {
+      "color" : "#FFFFFF00",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#0000000F",
+      "thickness" : 2
+    },
+    "name" : "macOS Dark(er) (Blurred)"
+  }
+}
